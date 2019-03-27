@@ -20,5 +20,5 @@ const styles = {
         position: 'relative'
 
     }
-}
+};
 export default CardSection;
